@@ -103,7 +103,7 @@ Used-Cars-EDA/
 ## ▶ How to Run This Project
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/used-car-market-analysis-hyderabad.git
+git clone https://github.com/SaiPraneethMarripelli/used-car-market-analysis-hyderabad.git
 ```
 
 ### 2. Install Dependencies
